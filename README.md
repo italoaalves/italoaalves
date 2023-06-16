@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align="left">Let's build something together:</h3>
+<p align="left">
+</p>
 
-<!--
-**italoaalves/italoaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <br>
+  <samp>
+    Hi there! I'm Italo, a <b>Software Engineer</b> from Brazil.
+  </samp>
+  <br>
+  <br>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/italoaalves/">
+  <img src="https://github.com/italoaalves/italoaalves/assets/18471038/b484ba94-92e4-49a2-b801-7683e7122377" width="30px" alt="LinkedIn"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
