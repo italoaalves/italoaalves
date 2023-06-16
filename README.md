@@ -13,7 +13,7 @@
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/italoaalves/">
-  <img src="https://github.com/italoaalves/italoaalves/assets/18471038/b484ba94-92e4-49a2-b801-7683e7122377" width="30px" alt="LinkedIn"></a>
+  <img src="linkedin.png" width="30px" alt="LinkedIn"></a>
 </p>
 
 ----
