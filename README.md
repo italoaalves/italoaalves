@@ -1,9 +1,6 @@
 <samp>
+   <h1>Hi there! I'm Italo</h1>
 <p>
-  <br>
-    Hi there! I'm Italo.
-  <br>
-  <br>
   A skilled <strong>Full Stack Developer</strong> specializing in Backend. Interested in:
 </p>
   
