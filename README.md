@@ -6,7 +6,7 @@
   
 <ul>
   <li>🌐 Backend web development with Ruby, Elixir and Java</li>
-  <li>🖼️ Responsive frontend development with Vue.js and React</li>
+  <li>🖼️ Responsive frontend development with Vue.js, React and React Native</li>
   <li>🛠️ Open Source and Linux</li>
 </ul>
 
