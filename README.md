@@ -15,7 +15,7 @@
 </ul>
 
 <p>
-  Versatile, disciplined, and communicative with a constant learning philosophy. Open to exciting collaborations and independent contractor work. Let's connect! 👋
+  Versatile, disciplined, and communicative with a constant learning philosophy. Open to exciting collaborations and freelance work. Let's connect! 👋
 </p>
 
 <h3 align="center">Reach out:</h3>
