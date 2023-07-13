@@ -1,6 +1,6 @@
 <samp>
    <h1>
-      <img src="https://github.com/italoaalves/italoaalves/assets/18471038/e2ff927b-5d87-420a-bdfd-d67dd48acd87" style="width:2em;text-align:center;">
+      <img src="bonfire.gif" style="width:2em;text-align:center;">
       Hi there! I'm Italo
    </h1>
    
