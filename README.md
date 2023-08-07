@@ -15,10 +15,10 @@
 </ul>
 
 <p>
-  Versatile, disciplined, and communicative with a constant learning philosophy. Open to exciting collaborations and freelance work. Let's connect! 👋
+   Open to exciting collaborations and freelance work. 
 </p>
 
-<h3 align="center">Reach out:</h3>
+<h3 align="center">Let's connect! 👋</h3>
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/italoaalves/">
   <img src="linkedin.png" width="30px" alt="LinkedIn"></a>
